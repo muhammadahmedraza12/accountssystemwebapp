@@ -1,0 +1,321 @@
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.exe
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.deps.json
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.json
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.dev.json
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.pdb
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csprojAssemblyReference.cache
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfo.cs
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Manifest.cache
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.xml
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.RazorTargetAssemblyInfo.cache
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CopyComplete
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.pdb
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.genruntimeconfig.cache
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ah_su\source\repos\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.StaticWebAssets.xml
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.exe
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.deps.json
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.json
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.dev.json
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.pdb
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfo.cs
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Manifest.cache
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.RazorTargetAssemblyInfo.cache
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CopyComplete
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.dll
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.pdb
+C:\Users\kk\Downloads\Compressed\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.genruntimeconfig.cache
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.StaticWebAssets.xml
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.exe
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.deps.json
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.json
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.dev.json
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.pdb
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Dapper.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.AssemblyReference.cache
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfoInputs.cache
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfo.cs
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CoreCompileInputs.cache
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Manifest.cache
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.RazorTargetAssemblyInfo.cache
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CopyComplete
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.dll
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.pdb
+F:\DummyApplication\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.genruntimeconfig.cache
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.StaticWebAssets.xml
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.exe
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.deps.json
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.json
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.dev.json
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.pdb
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Dapper.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.AssemblyReference.cache
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfoInputs.cache
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfo.cs
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CoreCompileInputs.cache
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Manifest.cache
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.RazorTargetAssemblyInfo.cache
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CopyComplete
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.dll
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.pdb
+F:\FinalProject\WebApplication4\WebApplication4\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.genruntimeconfig.cache
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.StaticWebAssets.xml
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.exe
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.deps.json
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.json
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.dev.json
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.pdb
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.AssemblyReference.cache
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfoInputs.cache
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfo.cs
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CoreCompileInputs.cache
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Manifest.cache
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Pack.cache
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication4.props
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.RazorTargetAssemblyInfo.cache
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CopyComplete
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.pdb
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.genruntimeconfig.cache
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\6oct\REACT NATIVE 07-10-2023\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.StaticWebAssets.xml
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.exe
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.deps.json
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.json
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.dev.json
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.pdb
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.AssemblyReference.cache
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfoInputs.cache
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfo.cs
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CoreCompileInputs.cache
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Manifest.cache
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Pack.cache
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication4.props
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.RazorTargetAssemblyInfo.cache
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CopyComplete
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.dll
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.pdb
+D:\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.StaticWebAssets.xml
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.exe
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.deps.json
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.pdb
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Pack.cache
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.dll
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.pdb
+C:\Users\LENOVO\Desktop\Project Api\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.genruntimeconfig.cache
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.exe
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.deps.json
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.json
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.pdb
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.xml
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfo.cs
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CopyComplete
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.dll
+C:\Users\DELL\Downloads\New folder (2)\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.pdb
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.exe
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.deps.json
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.json
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.runtimeconfig.dev.json
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\WebApplication4.pdb
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication4.StaticWebAssets.xml
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.AssemblyInfo.cs
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.csproj.CopyComplete
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.dll
+C:\Users\DELL\Downloads\ahmedaccountssystemwebapp\Backend\WebApplication4\obj\Debug\netcoreapp3.1\WebApplication4.pdb

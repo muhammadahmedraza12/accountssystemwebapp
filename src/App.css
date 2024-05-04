@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+body {
+  background-image: url('./'); /* Replace with the path to your image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ /* Adjust the opacity as needed */
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.chart-heading {
+  font-family: "Your Desired Font", sans-serif;
+  font-size: 28px;
+  margin-left: 20px;
+  padding: 10px 0;
+
+  border-style: groove;
+  border-color: #0d6efd;
+ background-color: #0d6efd;
+  display: inline-block;
+  width: 100%;
+  font-weight: 600;
+  margin-top: 20px;
+  color: white;
+  border-radius: 20px;
+  text-align: center;
+
+}
+
+
+
+.btn{
+  margin-left: 10px;
+ margin-right: 10px;
+}
+
+/* Add some margin and border styles to form groups */
+.form-group {
+  margin: 10px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 25px;
+  background-color: white;
+
+}
+
+.form-group input{
+  border-radius: 10px;
+}
+.form-group select{
+  border-radius: 10px;
+}
+
+/* Adjust label style to differentiate it from input fields */
+.form-group label {
+  font-weight: bold;
+ 
+}
+
+/* Increase margin between rows for separation */
+.form-row {
+  margin-bottom: 20px;
+
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
